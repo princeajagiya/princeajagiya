@@ -2,139 +2,138 @@
 
 ### Full-Stack Developer | MERN Stack | Python | AI/ML
 
-I am a software developer focused on building full-stack web applications, backend APIs, and Python-based machine learning projects. I enjoy solving practical problems through clean code, database design, and user-friendly applications.
+I build web applications, backend services, and machine learning projects focused on solving practical problems. I enjoy working across the stack, from designing user interfaces and REST APIs to integrating databases and developing Python-based ML solutions.
 
-🎓 **MCA Student** at Silver Oak University, Gujarat  
-💻 Interested in Full-Stack Development, Backend Engineering, Python, and AI/ML  
-🚀 Building practical projects and continuously improving my technical skills  
-🎯 Open to internships and entry-level software development opportunities
+- 🎓 MCA student at Silver Oak University, Gujarat
+- 💻 Interested in full-stack engineering, backend development, and applied AI
+- 🚀 Focused on building practical projects and improving software engineering skills
+- 🎯 Open to internships and entry-level opportunities
 
----
-
-## 🧩 Focus Areas
-
-- **Full-Stack Development:** React.js, Node.js, Express.js, JavaScript
-- **Backend Development:** Python, REST APIs, Node.js, Express.js
-- **AI & Machine Learning:** Python, Machine Learning, data preprocessing
-- **Databases:** MongoDB, MySQL, SQL
-- **Web Development:** HTML5, CSS3, JavaScript, React.js
-- **Programming:** Python, JavaScript, PHP
+<p align="left">
+  <a href="https://www.linkedin.com/in/prince-ajagiya-367921443/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/princeajagiya">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript and React"/>
+</p>
 
-`Python` `JavaScript` `PHP` `SQL` `HTML5` `CSS3`
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php" alt="Node.js, Express, Python and PHP"/>
+</p>
 
-**Frontend**
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL"/>
+</p>
 
-`React.js` `HTML5` `CSS3` `JavaScript`
+### AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" alt="Python and scikit-learn"/>
+</p>
 
-**Backend**
+**Core concepts:** REST APIs · CRUD Operations · Database Design · Authentication · Data Preprocessing · Machine Learning
 
-`Node.js` `Express.js` `Python` `REST APIs`
-
-**Databases**
-
-`MongoDB` `MySQL`
-
-**AI & Machine Learning**
-
-`Python` `Machine Learning` `Data Preprocessing`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Postman`
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Git, GitHub, VS Code and Postman"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💼 Job Portal Web Application
+### 💼 MERN Stack Job Portal
+A full-stack web application designed to connect job seekers with recruiters and support job application workflows.
 
-A full-stack job portal developed using the MERN stack to connect job seekers with recruiters.
+**Technologies:** MongoDB · Express.js · React.js · Node.js
 
-**Tech Stack:** MongoDB · Express.js · React.js · Node.js
-
-**Project Highlights**
-- User registration and login
 - Job listing and management
-- Job application workflow
-- Student and recruiter functionality
-- Backend API development
-- MongoDB database integration
+- Student and recruiter workflows
+- Job application functionality
+- REST API and database integration
 
 ### 📰 Fake News Detector
-
 A Python-based machine learning project focused on classifying news content as potentially fake or real.
 
-**Tech Stack:** Python · Machine Learning · Pandas · NumPy · Scikit-learn
+**Technologies:** Python · Machine Learning
 
-**Project Highlights**
 - News data preprocessing
-- Machine learning model development
-- News classification
-- Prediction workflow
+- Model training and prediction
+- Fake-news classification workflow
 
 ### 🚗 Rental Car Management System
+A web application developed to manage vehicle rental information and related operations.
 
-A web-based rental car management application built to organize vehicle rental operations.
+**Technologies:** PHP · MySQL · HTML · CSS · JavaScript
 
-**Tech Stack:** PHP · MySQL · HTML · CSS · JavaScript
-
-**Project Highlights**
-- Vehicle information management
-- Rental and booking records
-- Database-driven application
+- Vehicle and rental record management
+- Booking-related workflows
+- Database-driven operations
 - Administrative and user functionality
+
+> Visit my repositories for the source code, implementation details, and project documentation.
+
+---
+
+## 📊 GitHub Overview
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=princeajagiya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Prince's GitHub statistics"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeajagiya&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages"/>
+</p>
 
 ---
 
 ## 🎓 Education
 
 **Master of Computer Applications (MCA)**  
-Silver Oak University, Gujarat  
-2025 – 2027
+Silver Oak University, Gujarat | 2025–2027
 
 **Bachelor of Computer Applications (BCA)**  
-Veer Narmad South Gujarat University, Gujarat  
-2022 – 2025
+Veer Narmad South Gujarat University, Gujarat | 2022–2025
 
 ---
 
-## 🎯 Currently Exploring
+## 🎯 Areas of Interest
 
 - Full-Stack and MERN Stack Development
-- Python and Backend API Development
-- Machine Learning and AI Applications
-- Database Design and SQL
-- Software Engineering and Problem Solving
+- Python and Backend Engineering
+- Artificial Intelligence and Machine Learning
+- REST API Development
+- Database Design and Software Development
 
 ---
 
-## 🤝 Open to Opportunities
+## 🤝 Let's Connect
 
-I am interested in internship and entry-level opportunities in:
+I'm interested in connecting with developers, collaborating on projects, and exploring internship and entry-level opportunities.
 
-- Full-Stack Development
-- MERN Stack Development
-- Python Development
-- Backend Development
-- AI and Machine Learning
+<p align="left">
+  <a href="https://www.linkedin.com/in/prince-ajagiya-367921443/">
+    <img src="https://img.shields.io/badge/LinkedIn-Prince%20Ajagiya-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-Send%20a%20message-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Prince"/>
+  </a>
+</p>
 
-📍 Surat, Gujarat, India
+⭐ Thanks for visiting my profile!
 
----
-
-## 🌐 Connect With Me
-
-- **LinkedIn:** https://www.linkedin.com/in/prince-ajagiya-367921443/
-- **GitHub:** https://github.com/princeajagiya
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my development journey.
-
-*Learning, building, and improving one project at a time.*
+*Build. Learn. Improve. Repeat.*
