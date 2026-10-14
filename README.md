@@ -89,17 +89,6 @@ A web application developed to manage vehicle rental information and related ope
 
 ---
 
-## 📊 GitHub Overview
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=princeajagiya&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Prince's GitHub statistics"/>
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeajagiya&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages"/>
-</p>
-
----
 
 ## 🎓 Education
 
